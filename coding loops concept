@@ -1,0 +1,27 @@
+IF ELSE IN JAVA CODING 
+input for variable mark if mark>35 print "pass" else print "fail";
+import java.util.*;
+class demo{
+public static void main(String args[]){
+int mark=35;
+if(mark>34){
+System.out.print("pass");}
+else{
+System.out.print("fail");}
+}
+}
+
+then output is 45 it will print pass or else it will fail.
+
+Then how to get from input form terminal let will do
+import java.util.*;
+class demo{
+public static void main(String args[]){
+Scanner sc=new Scanner(Sytsem.in);
+int mark=sc.nextInt();
+if(mark>34){
+System.out.print("pass");
+else{
+System.out.print("fail");}
+}
+}
