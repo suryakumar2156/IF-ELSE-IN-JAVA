@@ -25,3 +25,80 @@ else{
 System.out.print("fail");}
 }
 }
+
+find out the number is divisible by 3 or not
+
+import java.util.*;
+class demo{
+public static void main(String args[]){
+Scanner sc=new Scanner(Sytsem.in);
+int mark=sc.nextInt();
+{
+if(num%3==0){
+System.out.print("yes");
+}else{
+System.out.print("no");
+}
+}
+}
+
+find out the number is divisible by 3 or not
+
+import java.util.*;
+class demo{
+public static void main(String args[]){
+Scanner sc=new Scanner(Sytsem.in);
+int mark=sc.nextInt();
+if(num%5==0){
+System.out.print("yes");
+}else{
+System.out.print("no");
+}
+}
+}
+
+comparision opertaor;
+
+import java.util.*;
+class demo{
+public static void main(String args[]){
+Scanner sc=new Scanner(Sytsem.in);
+int mark=sc.nextInt();
+if(num%3==0 && num%5==0){
+System.out.print("yes");
+}else{
+System.out.print("no");
+}
+}
+}
+find out the number is odd or even number;
+
+
+import java.util.*;
+class demo{
+public static void main(String args[]){
+Scanner sc=new Scanner(Sytsem.in);
+int mark=sc.nextInt();
+if(num%2==0){
+System.out.print("even");}
+else{
+System.out.print("odd");
+}
+}
+}
+
+import java.util.*;
+class demo{
+public static void main(String args[]){
+Scanner sc=new Scanner(Sytsem.in);
+int num=sc.nextInt();
+if(num%3==0 && num%5==0){
+System.out.print("even");}
+else{
+System.out.print("odd");
+}
+}
+}
+
+
+
